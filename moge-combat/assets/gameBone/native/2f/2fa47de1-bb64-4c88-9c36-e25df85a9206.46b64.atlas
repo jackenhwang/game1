@@ -1,0 +1,76 @@
+
+fanshang.png
+size: 972,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanshang/3
+  rotate: false
+  xy: 1, 1
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+fanshang/guanghuan
+  rotate: false
+  xy: 307, 1
+  size: 270, 269
+  orig: 270, 269
+  offset: 0, 0
+  index: -1
+fanshang/xia_1
+  rotate: false
+  xy: 1, 307
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
+fanshang/xia_you
+  rotate: false
+  xy: 1, 347
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+fanshang/xia_zuo
+  rotate: false
+  xy: 881, 1
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+fanshang/zuoguang
+  rotate: false
+  xy: 825, 1
+  size: 54, 222
+  orig: 54, 222
+  offset: 0, 0
+  index: -1
+fanshang/1
+  rotate: false
+  xy: 579, 1
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+fanshang/guangdian
+  rotate: false
+  xy: 539, 272
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+fanshang/2
+  rotate: false
+  xy: 307, 272
+  size: 230, 227
+  orig: 230, 227
+  offset: 0, 0
+  index: -1
+fanshang/xiaodian
+  rotate: false
+  xy: 579, 247
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

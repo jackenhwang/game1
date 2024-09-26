@@ -1,0 +1,34 @@
+
+hpUp.png
+size: 269,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huifu/fangkuai
+  rotate: false
+  xy: 1, 156
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+huifu/caiseguang
+  rotate: false
+  xy: 1, 1
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+huifu/tx_shifa_diandian
+  rotate: false
+  xy: 148, 122
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+huifu/xue
+  rotate: false
+  xy: 148, 1
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

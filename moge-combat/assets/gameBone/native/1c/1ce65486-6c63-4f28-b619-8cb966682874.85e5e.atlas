@@ -1,0 +1,41 @@
+
+loading.png
+size: 295,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading/1
+  rotate: false
+  xy: 116, 1
+  size: 116, 124
+  orig: 116, 124
+  offset: 0, 0
+  index: -1
+loading/tx2
+  rotate: false
+  xy: 1, 1
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+loading/tx3
+  rotate: false
+  xy: 1, 144
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+loading/tx1
+  rotate: false
+  xy: 116, 127
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+loading/2
+  rotate: false
+  xy: 234, 1
+  size: 59, 180
+  orig: 59, 180
+  offset: 0, 0
+  index: -1

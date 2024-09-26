@@ -1,0 +1,97 @@
+
+eff_skill_icespike.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_1_1
+  rotate: false
+  xy: 950, 198
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+ice_1_2
+  rotate: false
+  xy: 460, 58
+  size: 208, 196
+  orig: 208, 196
+  offset: 0, 0
+  index: -1
+ice_1_3
+  rotate: false
+  xy: 246, 54
+  size: 212, 200
+  orig: 212, 200
+  offset: 0, 0
+  index: -1
+ice_2_1
+  rotate: false
+  xy: 850, 100
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+ice_2_2
+  rotate: false
+  xy: 812, 142
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+ice_2_3
+  rotate: false
+  xy: 670, 138
+  size: 140, 116
+  orig: 140, 116
+  offset: 0, 0
+  index: -1
+ice_3_1
+  rotate: false
+  xy: 950, 172
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ice_3_2
+  rotate: true
+  xy: 768, 44
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+ice_3_3
+  rotate: false
+  xy: 670, 52
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+particle01
+  rotate: false
+  xy: 36, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+particle02
+  rotate: false
+  xy: 246, 32
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2, 32
+  size: 242, 222
+  orig: 242, 222
+  offset: 0, 0
+  index: -1

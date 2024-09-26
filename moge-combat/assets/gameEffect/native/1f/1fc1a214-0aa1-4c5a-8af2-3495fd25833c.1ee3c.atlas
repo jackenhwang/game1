@@ -1,0 +1,76 @@
+
+lose.png
+size: 493,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shibai/yumao
+  rotate: false
+  xy: 405, 353
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+shibai/daguang
+  rotate: false
+  xy: 224, 436
+  size: 243, 107
+  orig: 243, 107
+  offset: 0, 0
+  index: -1
+shibai/youjian
+  rotate: false
+  xy: 405, 293
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+shibai/bu
+  rotate: false
+  xy: 1, 1
+  size: 207, 285
+  orig: 207, 285
+  offset: 0, 0
+  index: -1
+shibai/youchibang
+  rotate: false
+  xy: 210, 1
+  size: 221, 199
+  orig: 221, 199
+  offset: 0, 0
+  index: -1
+shibai/zuochibang
+  rotate: false
+  xy: 1, 436
+  size: 221, 199
+  orig: 221, 199
+  offset: 0, 0
+  index: -1
+shibai/jianjia
+  rotate: false
+  xy: 1, 288
+  size: 402, 146
+  orig: 402, 146
+  offset: 0, 0
+  index: -1
+shibai/shibai
+  rotate: false
+  xy: 224, 545
+  size: 241, 98
+  orig: 241, 98
+  offset: 0, 0
+  index: -1
+shibai/zuojian
+  rotate: false
+  xy: 405, 202
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+shibai/shuguang
+  rotate: false
+  xy: 467, 545
+  size: 24, 225
+  orig: 24, 225
+  offset: 0, 0
+  index: -1

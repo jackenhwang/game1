@@ -1,0 +1,55 @@
+
+duihua.png
+size: 128,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duihua/hei
+  rotate: false
+  xy: 1, 80
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+duihua/houshou
+  rotate: false
+  xy: 86, 75
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+duihua/shenzi
+  rotate: false
+  xy: 82, 1
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+duihua/tou
+  rotate: false
+  xy: 1, 1
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+duihua/qianshou
+  rotate: false
+  xy: 82, 40
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+duihua/zuiba2
+  rotate: false
+  xy: 115, 40
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+duihua/zuiba
+  rotate: false
+  xy: 86, 103
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

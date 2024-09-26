@@ -1,0 +1,20 @@
+
+book.png
+size: 133,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tujian/2
+  rotate: false
+  xy: 1, 1
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+tujian/1
+  rotate: false
+  xy: 102, 1
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

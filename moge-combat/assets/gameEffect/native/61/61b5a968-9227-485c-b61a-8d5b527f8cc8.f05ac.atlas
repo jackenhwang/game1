@@ -1,0 +1,27 @@
+
+eff_skill_icestorm_bg.png
+size: 512, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 2, 2
+  size: 156, 122
+  orig: 156, 122
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 160, 20
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+gradation
+  rotate: true
+  xy: 160, 16
+  size: 2, 42
+  orig: 2, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+xixue.png
+size: 251,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xixue/weiba
+  rotate: false
+  xy: 136, 100
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+xixue/hp
+  rotate: false
+  xy: 136, 162
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xixue/xuedian
+  rotate: false
+  xy: 156, 1
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+xixue/yuguang
+  rotate: false
+  xy: 136, 136
+  size: 111, 24
+  orig: 111, 24
+  offset: 0, 0
+  index: -1
+xixue/xiayachi
+  rotate: false
+  xy: 1, 1
+  size: 153, 97
+  orig: 153, 97
+  offset: 0, 0
+  index: -1
+xixue/shangyachi
+  rotate: false
+  xy: 1, 100
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1

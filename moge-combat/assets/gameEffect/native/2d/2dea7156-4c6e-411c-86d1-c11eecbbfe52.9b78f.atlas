@@ -1,0 +1,48 @@
+
+eff_skill_icestorm.png
+size: 512, 64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+break01
+  rotate: false
+  xy: 2, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+break02
+  rotate: false
+  xy: 66, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+break03
+  rotate: false
+  xy: 130, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+break04
+  rotate: false
+  xy: 194, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 258, 15
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+icesteam
+  rotate: false
+  xy: 288, 25
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

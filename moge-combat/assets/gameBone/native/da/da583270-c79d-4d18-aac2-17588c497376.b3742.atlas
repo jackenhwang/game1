@@ -1,0 +1,48 @@
+
+shouzhi.png
+size: 120,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi/yuan1
+  rotate: false
+  xy: 94, 1
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+shouzhi/yuan2
+  rotate: false
+  xy: 47, 44
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+shouzhi/shouzhi2
+  rotate: false
+  xy: 47, 1
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+shouzhi/shouzhi1
+  rotate: false
+  xy: 1, 1
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+shouzhi/2
+  rotate: false
+  xy: 1, 49
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+shouzhi/1
+  rotate: false
+  xy: 85, 44
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

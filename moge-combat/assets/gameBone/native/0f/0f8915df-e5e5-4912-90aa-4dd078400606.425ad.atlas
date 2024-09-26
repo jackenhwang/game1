@@ -1,0 +1,181 @@
+
+face.png
+size: 256,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing/naodai
+  rotate: false
+  xy: 66, 1
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+biaoqing/shengqi_hongnian
+  rotate: false
+  xy: 123, 1
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+biaoqing/maozi
+  rotate: false
+  xy: 1, 1
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+biaoqing/bishi_zuiba
+  rotate: false
+  xy: 200, 58
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+biaoqing/bishi_shouzhi
+  rotate: false
+  xy: 221, 25
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+biaoqing/bishi_yanjing
+  rotate: false
+  xy: 104, 65
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+biaoqing/bishi_hongnian2
+  rotate: false
+  xy: 162, 46
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+biaoqing/bishi_meimao1
+  rotate: false
+  xy: 144, 65
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_zuiba1
+  rotate: false
+  xy: 104, 57
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_zuiba2
+  rotate: false
+  xy: 40, 76
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_zuiba3
+  rotate: false
+  xy: 66, 57
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_yanjing
+  rotate: false
+  xy: 200, 70
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_liandan
+  rotate: false
+  xy: 123, 28
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+biaoqing/deyi_meimao
+  rotate: false
+  xy: 1, 73
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanlei4
+  rotate: false
+  xy: 179, 1
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanlei1
+  rotate: false
+  xy: 144, 77
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanlei3
+  rotate: false
+  xy: 214, 1
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanlei2
+  rotate: false
+  xy: 221, 54
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+biaoqing/ku_zuiba
+  rotate: false
+  xy: 210, 82
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanjing
+  rotate: false
+  xy: 123, 46
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+biaoqing/xiao_zuiba
+  rotate: false
+  xy: 162, 58
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+biaoqing/xiao_yanjing
+  rotate: false
+  xy: 176, 40
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+biaoqing/xiao_yaci1
+  rotate: false
+  xy: 179, 82
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+biaoqing/xiao_yaci2
+  rotate: false
+  xy: 72, 76
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+biaoqing/ku_yanguang
+  rotate: false
+  xy: 100, 78
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+shandian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian/dimian
+  rotate: false
+  xy: 286, 414
+  size: 138, 45
+  orig: 138, 45
+  offset: 0, 0
+  index: -1
+shandian/fangkuai
+  rotate: false
+  xy: 166, 407
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shandian/7
+  rotate: false
+  xy: 196, 1
+  size: 133, 183
+  orig: 133, 183
+  offset: 0, 0
+  index: -1
+shandian/3
+  rotate: false
+  xy: 426, 317
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+shandian/4
+  rotate: false
+  xy: 1, 193
+  size: 72, 244
+  orig: 72, 244
+  offset: 0, 0
+  index: -1
+shandian/6
+  rotate: false
+  xy: 196, 186
+  size: 81, 226
+  orig: 81, 226
+  offset: 0, 0
+  index: -1
+shandian/2
+  rotate: false
+  xy: 75, 299
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+shandian/1
+  rotate: false
+  xy: 1, 1
+  size: 193, 190
+  orig: 193, 190
+  offset: 0, 0
+  index: -1
+shandian/caiseguang
+  rotate: false
+  xy: 331, 1
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+shandian/tx_shifa_diandian
+  rotate: false
+  xy: 75, 193
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+shandian/guang
+  rotate: false
+  xy: 331, 156
+  size: 126, 159
+  orig: 126, 159
+  offset: 0, 0
+  index: -1
+shandian/guanghuan
+  rotate: false
+  xy: 75, 407
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+shandian/shitou
+  rotate: false
+  xy: 171, 299
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+shandian/5kuoda
+  rotate: false
+  xy: 166, 414
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1

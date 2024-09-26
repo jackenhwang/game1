@@ -1,0 +1,48 @@
+
+lihua2.png
+size: 205,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu/s8
+  rotate: false
+  xy: 127, 189
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+tu/t5/l1
+  rotate: false
+  xy: 69, 12
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+tu/t5/l2
+  rotate: false
+  xy: 2, 129
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+tu/t5/l3
+  rotate: false
+  xy: 139, 32
+  size: 59, 155
+  orig: 59, 155
+  offset: 0, 0
+  index: -1
+tu/t5/l4
+  rotate: false
+  xy: 2, 3
+  size: 65, 124
+  orig: 65, 124
+  offset: 0, 0
+  index: -1
+tu/t5/l5
+  rotate: true
+  xy: 69, 2
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1

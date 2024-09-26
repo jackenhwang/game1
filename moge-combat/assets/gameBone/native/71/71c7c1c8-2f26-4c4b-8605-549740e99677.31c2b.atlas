@@ -1,0 +1,34 @@
+
+shanbi.png
+size: 53,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanbi/yeziyingzi
+  rotate: false
+  xy: 32, 22
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+shanbi/3
+  rotate: false
+  xy: 1, 30
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+shanbi/yezi
+  rotate: false
+  xy: 1, 1
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shanbi/guangdian
+  rotate: false
+  xy: 32, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
