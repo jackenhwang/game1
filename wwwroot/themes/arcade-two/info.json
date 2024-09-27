@@ -1,0 +1,12 @@
+{
+	"name": "Arcade Two",
+	"version": "1.0.8",
+	"author": "CloudArcade",
+	"description": "Arcade Two Theme",
+	"website": "https://cloudarcade.net",
+	"initial_release": "03/01/2023",
+	"release_date": "05/04/2024",
+	"changelog": "Fix bugs",
+	"type":"theme",
+	"target_version": "1.8.4"
+}

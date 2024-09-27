@@ -1,0 +1,23 @@
+/*
+
+Custom style
+
+You can override the default class or style here
+
+This file will not be overwritten by the updater
+
+*/
+
+/* Modified By Jacken */
+.nav-gamepage{
+    /* display: none; */
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+
+.site-logo{
+    max-height: 36px;
+}
+
+.top-nav {
+}
