@@ -2,4 +2,3 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home2/tikg23177895/public_html/games/
- - /bin/cp -rf /home2/tikg23177895/repositories/game1/wwwroot/content/themes /home2/tikg23177895/public_html/content/
